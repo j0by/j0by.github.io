@@ -1,1 +1,1 @@
-Nothing to see here. Move along now.
+Personal website + blog. Powered by [VuePress](https://vuepress.vuejs.org/)
